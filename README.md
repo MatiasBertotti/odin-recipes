@@ -1,2 +1,2 @@
 # odin-recipes
-My first (Try) to build a website
+Recetas simples de Odin, de suma suculencia 
